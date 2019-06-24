@@ -1,0 +1,8 @@
+{
+	"/userManager/controllers": {
+		"target": "http://localhost:8600/userManager/controllers/userCtrl.cfc",
+		"secure": false,
+		"logLevel": "debug",
+		"changeOrigin": true
+	}
+}
